@@ -1,13 +1,6 @@
 pandacache
 ========================================================================
 
-[![GitHub stars](https://img.shields.io/github/stars/linpingta/chinese-poem-generator.svg?style=social&label=Star)](https://https://github.com/linpingta/panda-cache/stargazers)
-
-[![Fork](https://img.shields.io/badge/-Fork-green?logo=github&style=for-the-badge)](https://https://github.com/linpingta/panda-cache/fork)
-
-[![Clone](https://img.shields.io/badge/Clone-HTTPS-blue.svg)](https://https://github.com/linpingta/panda-cache.git)
-
-
 Pandacache is a Python package that provides various caching mechanisms to efficiently store and retrieve data in your Python applications.
 
 This module provides a lot of cache implementation with Python and AI.
